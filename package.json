@@ -1,0 +1,20 @@
+{
+    "name": "ai-pushkin-api",
+    "version": "1.0.0",
+    "description": "Обёртка над API новой разработки Тинькофф AI да Пушкин — https://ai-pushkin.content.tinkoff.ru/",
+    "main": "src/ai-pushkin.js",
+    "scripts": {
+        "start": "node ."
+    },
+    "keywords": [
+        "tinkoff",
+        "ai",
+        "pushkin"
+    ],
+    "author": "Vyacheslav <slava021323@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^0.25.0",
+        "random-useragent": "^0.5.0"
+    }
+}
