@@ -3,6 +3,8 @@
     "version": "1.0.0",
     "description": "Обёртка над API новой разработки Тинькофф AI да Пушкин — https://ai-pushkin.content.tinkoff.ru/",
     "main": "src/ai-pushkin.js",
+    "homepage": "https://github.com/s0ftik3/ai-pushkin-api#readme",
+    "repository": "https://github.com/s0ftik3/ai-pushkin-api",
     "scripts": {
         "start": "node ."
     },
