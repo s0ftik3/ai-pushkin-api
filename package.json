@@ -1,6 +1,6 @@
 {
     "name": "ai-pushkin-api",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Обёртка над API новой разработки Тинькофф AI да Пушкин — https://ai-pushkin.content.tinkoff.ru/",
     "main": "src/ai-pushkin.js",
     "homepage": "https://github.com/s0ftik3/ai-pushkin-api#readme",
